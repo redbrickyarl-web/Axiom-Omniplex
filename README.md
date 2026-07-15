@@ -1,2 +1,6 @@
-# Axiom-Omniplex
-The Axiom Omniplex - Advanced hybrid infrastructure simulation bridging Rust core engine and Python swarm orchestrator via MMCL IPC. Includes tactical fuzzer and zero-latency fabric.
+# Axiom Omniplex
+
+Advanced hybrid low-latency AI infrastructure blueprint by Dalton Rosenberg.
+Includes Rust core_engine, Python swarm_orchestrator, MMCL reality_anchor, configs, and tactical fuzzer.
+
+Files from attachments successfully integrated.
